@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AppWebPractica.Models
 {
-    //Modificado
+    
     public class Empleados
     {
         public int Id { get; set; }
